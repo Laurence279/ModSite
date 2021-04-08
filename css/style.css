@@ -8,11 +8,14 @@ body {
   margin:0;
 }
 h1{
+  font-size: 100px;
   margin-top: 50px;
   font-family: 'Indie Flower', cursive;
+  margin-bottom: 100px;
 }
 
 h2{
+  font-size: 40px;
   font-family: 'Annie Use Your Telescope', cursive;
 }
 
@@ -67,7 +70,7 @@ hr{
 
 #bottomcloud {
   position:absolute;
-  top:250px;
+  top:300px;
 }
 
 #mountain {
